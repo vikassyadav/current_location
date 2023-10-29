@@ -72,18 +72,26 @@ Obtain a Google Maps API key from the Google Developer Console.
 
 Add your API key to your strings.xml file:
  
-Contributing
-We welcome contributions from the open-source community. If you'd like to report issues, request features, or submit pull requests, please follow the guidelines outlined in CONTRIBUTING.md.
+
+Thank you for checking out the Current Location Android App! We hope you find it helpful and enjoy using it.
+
+
+
+
+
+<!--
+Contact
+For questions or inquiries, feel free to reach out:
+Email: your.email@example.com
+Twitter: @YourTwitterHandle
 
 License
 This project is licensed under the MIT License.
 
-Contact
-For questions or inquiries, feel free to reach out:
+Contributing
+We welcome contributions from the open-source community. If you'd like to report issues, request features, or submit pull requests, please follow the guidelines outlined in CONTRIBUTING.md.
 
-Email: your.email@example.com
-Twitter: @YourTwitterHandle
 Acknowledgments
-We would like to express our gratitude to the open-source community and the developers of libraries and tools that made this project possible.
+We would like to express our gratitude to the open-source community and the developers of libraries and tools that made this project possible. --!>
 
-Thank you for checking out the Current Location Android App! We hope you find it helpful and enjoy using it.
+
